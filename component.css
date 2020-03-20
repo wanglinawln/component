@@ -1,0 +1,20 @@
+html body{
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    height: 100%;
+}
+.title{
+    width: 150px;
+    margin: 10px auto;
+}
+#excel{
+    width: 600px;
+    height: 220px;
+    margin: 0 auto;
+}
+#chart{
+    width: 700px;
+    height: 300px;
+    margin: 0 auto;
+}
